@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinFİnder.Etntities", "CoinFİnder.Etntities\CoinFİnder.Etntities.csproj", "{BE18EC86-2B35-4168-B760-934C97D2BBFE}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinFinder.DataAccess", "CoinFinder.DataAccess\CoinFinder.DataAccess.csproj", "{9E6EAAF9-EC48-4084-B7A1-87149635C0BF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinfFinder.Business", "CoinfFinder.Business\CoinfFinder.Business.csproj", "{986E9A88-AA4F-4123-B132-31ED2D3A8B68}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CoinFinder.API", "CoinFinder.API\CoinFinder.API.csproj", "{953181CB-18EA-4ECD-86BA-E21D27B48A50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeleBot", "TeleBot\TeleBot.csproj", "{8EDDE97F-C723-4EF6-AD76-30DA6DC348D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE18EC86-2B35-4168-B760-934C97D2BBFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE18EC86-2B35-4168-B760-934C97D2BBFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE18EC86-2B35-4168-B760-934C97D2BBFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE18EC86-2B35-4168-B760-934C97D2BBFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E6EAAF9-EC48-4084-B7A1-87149635C0BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E6EAAF9-EC48-4084-B7A1-87149635C0BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E6EAAF9-EC48-4084-B7A1-87149635C0BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E6EAAF9-EC48-4084-B7A1-87149635C0BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986E9A88-AA4F-4123-B132-31ED2D3A8B68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986E9A88-AA4F-4123-B132-31ED2D3A8B68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986E9A88-AA4F-4123-B132-31ED2D3A8B68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986E9A88-AA4F-4123-B132-31ED2D3A8B68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{953181CB-18EA-4ECD-86BA-E21D27B48A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{953181CB-18EA-4ECD-86BA-E21D27B48A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{953181CB-18EA-4ECD-86BA-E21D27B48A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{953181CB-18EA-4ECD-86BA-E21D27B48A50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EDDE97F-C723-4EF6-AD76-30DA6DC348D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EDDE97F-C723-4EF6-AD76-30DA6DC348D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EDDE97F-C723-4EF6-AD76-30DA6DC348D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EDDE97F-C723-4EF6-AD76-30DA6DC348D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC42DFBD-293D-497B-A98F-DB3CAEE1A451}
+	EndGlobalSection
+EndGlobal
